@@ -1,3 +1,3 @@
 require './app'
-run HangpersApp
+run MyApp
 
