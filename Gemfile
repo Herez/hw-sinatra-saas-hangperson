@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.2.2'
+ruby '2.2.3'
 
 gem 'sinatra', '>= 1.4'
 gem 'sinatra-flash', '0.3.0'
@@ -23,3 +23,4 @@ group :development, :test do
   gem 'webmock', '1.21.0'
   gem 'ZenTest', '4.11.0'
 end
+
